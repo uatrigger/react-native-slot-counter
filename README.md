@@ -2,6 +2,17 @@
 
 Casino-style rolling digit counter for React Native, powered by Skia. Supports per-digit slot animations with text or custom image renderers.
 
+<table>
+  <tr>
+    <td><img src="docs/ios-thumb.png" alt="iOS demo" width="320"/></td>
+    <td><img src="docs/android-thumb.png" alt="Android demo" width="320"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>iOS</sub></td>
+    <td align="center"><sub>Android</sub></td>
+  </tr>
+</table>
+
 ## Features
 
 - **Slot-machine spin** — visible roll cycle then lands on target (casino style)
