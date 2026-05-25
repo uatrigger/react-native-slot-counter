@@ -1,11 +1,5 @@
 import { useRef } from 'react';
-import {
-  ScrollView,
-  View,
-  Text,
-  StyleSheet,
-  Pressable,
-} from 'react-native';
+import { ScrollView, View, Text, StyleSheet, Pressable } from 'react-native';
 import {
   SlotCounter,
   type SlotCounterHandle,
