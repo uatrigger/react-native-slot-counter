@@ -4,8 +4,8 @@ Casino-style rolling digit counter for React Native, powered by Skia. Supports p
 
 <table>
   <tr>
-    <td><img src="docs/ios-thumb.png" alt="iOS demo" width="320"/></td>
-    <td><img src="docs/android-thumb.png" alt="Android demo" width="320"/></td>
+    <td><img src="https://raw.githubusercontent.com/uatrigger/react-native-slot-counter/main/docs/ios-thumb.png" alt="iOS demo" width="320"/></td>
+    <td><img src="https://raw.githubusercontent.com/uatrigger/react-native-slot-counter/main/docs/android-thumb.png" alt="Android demo" width="320"/></td>
   </tr>
   <tr>
     <td align="center"><sub>iOS</sub></td>

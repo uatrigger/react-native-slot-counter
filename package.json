@@ -41,7 +41,16 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "skia",
+    "reanimated",
+    "slot-counter",
+    "counter",
+    "odometer",
+    "rolling-digits",
+    "casino",
+    "animation",
+    "fabric"
   ],
   "repository": {
     "type": "git",
